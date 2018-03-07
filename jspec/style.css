@@ -1,0 +1,15 @@
+.false {
+  color: red;
+}
+
+.true {
+  color: green;
+}
+
+.describe {
+  list-style-position: outside;
+}
+
+.example {
+  list-style-position: inside;
+}
